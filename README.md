@@ -5,3 +5,5 @@
 * React-Redux
 * Reduxjs/toolkit
 * Covid19API
+
+![](https://i.hizliresim.com/6r7ivok.PNG)
